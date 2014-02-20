@@ -1,26 +1,11 @@
 {
-  "name": "format-parser",
+  "name": "component-format-parser",
   "description": "Declarative format parser for declarative template engines",
   "version": "0.0.2",
   "keywords": [
     "format",
-    "parser",
-    "component"
+    "parser"
   ],
   "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "format-parser/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/format-parser.git"
-  }
+  "license": "MIT"
 }
